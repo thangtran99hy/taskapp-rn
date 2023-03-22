@@ -1,0 +1,64 @@
+{
+  "app": {
+    "name": "DailyDo"
+  },
+  "tabBar": {
+    "group": "Group",
+    "task": "Task",
+    "daily": "Daily",
+    "profile": "Profile"
+  },
+  "login": {
+    "btnContinue": "Continue",
+    "btnOffline": "Offline",
+    "notSyncWith": "if you don't want to sync data",
+    "syncWith": "if you want to sync data",
+    "btnText": "Sign in",
+    "or": "or"
+  },
+  "label": {
+    "edit": "edit",
+    "add": "add",
+    "cancel": "cancel",
+    "sure": "Are you sure!",
+    "delete": "Delete",
+    "yes": "Yes",
+    "noThanks": "No, thanks",
+    "logout_message": "Your account is logged in on another device, you need to log in again!",
+    "account_exist": "The account already exists on the system!",
+    "no_network": "No network connection!"
+  },
+  "group": {
+    "name": "Name",
+    "description": "Description",
+    "saveGroup": "Save group",
+    "name_required": "Group name is required!",
+    "message_delete": "This action will delete your group permanently!"
+  },
+  "task": {
+    "name": "Name",
+    "description": "Description",
+    "goal": "Goal",
+    "unit": "Unit",
+    "images": "Images",
+    "linkImage": "Link image ",
+    "saveTask": "Save task",
+    "name_required": "Task name is required!",
+    "message_delete": "This action will delete your task permanently!",
+    "no_group": "No group",
+    "add_group": "Add group"
+  },
+  "daily": {
+    "goal": "Goal",
+    "note": "Note",
+    "goal_required": "Daily goal is required!",
+    "saveDaily": "Save"
+  },
+  "profile": {
+    "offlineText": "Data is being saved on your device",
+    "deleteData": "Delete data",
+    "syncDataWith": "Data sync with",
+    "message_sign_out": "This action will sign out your account!",
+    "message_delete": "This action will delete your data!"
+  }
+}

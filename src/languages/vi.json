@@ -1,0 +1,64 @@
+{
+  "app": {
+    "name": "DailyDo"
+  },
+  "tabBar": {
+    "group": "Nhóm",
+    "task": "Việc",
+    "daily": "CHẤM",
+    "profile": "BẠN"
+  },
+  "login": {
+    "btnContinue": "Tiếp tục",
+    "btnOffline": "Không đồng bộ",
+    "notSyncWith": "Nếu bạn không muốn đồng bộ dữ liệu",
+    "syncWith": "Nếu bạn muốn đồng bộ dữ liệu",
+    "btnText": "Đăng Nhập",
+    "or": "hoặc"
+  },
+  "label": {
+    "edit": "sửa",
+    "add": "thêm",
+    "cancel": "hủy",
+    "sure": "Bạn có chắc không!",
+    "delete": "Xóa",
+    "yes": "Vâng",
+    "noThanks": "Không, cám ơn",
+    "logout_message": "Tài khoản của bản đang đăng nhập ở một thiết bị khác, bạn cần đăng nhập lại!",
+    "account_exist": "Tài khoản đã tồn tại trên hệ thống!",
+    "no_network": "Không có kết nối mạng!"
+  },
+  "group": {
+    "name": "Tên",
+    "description": "Mô tả",
+    "saveGroup": "Lưu nhóm",
+    "name_required": "Tên nhóm là bắt buộc!",
+    "message_delete": "Hành động này sẽ xóa nhóm của bạn vĩnh viễn!"
+  },
+  "task": {
+    "name": "Tên",
+    "description": "Mô tả",
+    "goal": "Mục tiêu",
+    "unit": "Đơn vị",
+    "images": "Hình ảnh",
+    "linkImage": "Hình ảnh liên kết ",
+    "saveTask": "Lưu tác vụ",
+    "name_required": "Tên tác vụ là bắt buộc!",
+    "message_delete": "Hành động này sẽ xóa công việc của bạn vĩnh viễn!",
+    "no_group": "Không có nhóm",
+    "add_group": "Thêm nhóm"
+  },
+  "daily": {
+    "goal": "Mục tiêu",
+    "note": "Ghi chú",
+    "goal_required": "Mục tiêu hàng ngày là bắt buộc!",
+    "saveDaily": "Lưu"
+  },
+  "profile": {
+    "offlineText": "Dữ liệu đang được lưu trên thiết bị của bạn",
+    "deleteData": "Xóa dữ liệu",
+    "syncDataWith": "Đồng bộ dữ liệu với",
+    "message_sign_out": "Hành động này sẽ đăng xuất tài khoản của bạn!",
+    "message_delete": "This action will delete dữ liệu của bạn!"
+  }
+}
